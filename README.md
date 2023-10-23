@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Bora</h1>
-<h3 align="center">I want to be a frontend developer someday!</h3>
+<h3 align="center">I always think about how to improve myself</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, ZEN CODING, SASS, JQuary, JS, Vue.js**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **qhfk8804@gmail.com**
 
-- ⚡ Fun fact **I'm a dog person 🐶💖 also I have a sweet tooth**
+- ⚡ Fun fact **I'm a dog person 🐶 also I have a sweet tooth💖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
