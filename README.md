@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, ZEN CODING, SASS, JQuary, JS, Vue.js**
 
-- 👨‍💻 All of my projects are available at [https://bora9410.github.io/personal/](https://bora9410.github.io/personal/)
+- 👨‍💻 All of my projects are available at [https://bora9410.github.io/portfolio/](https://bora9410.github.io/portfolio/)
 
 - 📫 How to reach me **qhfk8804@gmail.com**
 
