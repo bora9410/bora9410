@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **qhfk8804@gmail.com**
 
-- ⚡ Fun fact **I'm a dog person 🐶💖 also I have a sweet tooth **
+- ⚡ Fun fact **I'm a dog person 🐶💖 also I have a sweet tooth**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
